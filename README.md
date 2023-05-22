@@ -1,4 +1,4 @@
-# Cuso Digital: Git/Versionamento
+# Cuso Digital: Git
 
 ## Salvando alterações no Git
 * comando git push
